@@ -1,3 +1,6 @@
-/external/Config.java
-/WebContent/scripts/StepByStep.js
+src/external/Config.java
+WebContent/scripts/StepByStep.js
+WebContent/WEB-INF/
+WebContent/META-INF/
 .*
+build/
